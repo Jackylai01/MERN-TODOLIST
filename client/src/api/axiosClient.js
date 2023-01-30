@@ -2,7 +2,7 @@ import axios from "axios";
 
 import queryString from "query-string";
 
-const baseUrl = "http://localhost:8080/";
+const baseUrl = "https://mern-jacky-todolist.onrender.com/";
 const getToken = () => localStorage.getItem("token");
 
 const axiosClient = axios.create({
