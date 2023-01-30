@@ -29,16 +29,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
 
-//跨域設定
-//const corsOptions = {
-  //origin: [
-    "https://mern-jacky-todolist.onrender.com/",
-    "http://localhost:5173",
-    "http://localhost:3000",
-  ],
-  //methods: "GET,HEAD,PUT,PATCH,POST,DELETE,OPTIONS",
-  //allowedHeaders: ["Content-Type", "Authorization", "token"],
-};
+
 app.use(cors());
 
 app.use("/auth", authRoute);
