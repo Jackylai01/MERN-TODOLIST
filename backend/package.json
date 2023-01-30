@@ -2,10 +2,9 @@
   "name": "todo-list",
   "version": "1.0.0",
   "description": "",
-  "main": "server.j",
+  "main": "server.js",
   "scripts": {
-    
-    "start": "nodemon server.js"
+   "start": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
