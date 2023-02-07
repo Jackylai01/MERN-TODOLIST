@@ -72,8 +72,6 @@ client/   前端
 * 使用Redux Toolkit 進行user、board、section進行狀態管理
 * 使用@emoji-mart套件，引入表情符號，並儲存在後端資料庫
 * 使用react-beautiful-dnd套件，將TODOLIST的Item滑鼠拖曳改變位置，並儲存在Localstorage裡面
-* 使用react-beautiful-dnd套件，將TODOLIST的Item滑鼠拖曳改變位置，並儲存在Localstorage裡面
-
 
 
 
