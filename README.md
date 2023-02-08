@@ -1,6 +1,6 @@
 # MERN-TODO-LIST-代辦事項
 
-[網站範例連結](https://mern-todolist.vercel.app / "link")
+[網站範例連結](https://mern-todolist.vercel.app/ "link")
 
 <p align="left">
 帳號:JACKYLAI
